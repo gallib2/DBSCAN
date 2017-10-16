@@ -1,0 +1,81 @@
+Silhouette Result:
+Silhouette value for all Clusters: 0.0184584041621469
+Silhouette Per Cluster: 
+Cluster 1: silhouette value : 0.995670655361185
+Cluster 2: silhouette value : 0.940851375801801
+Cluster 3: silhouette value : 0.730031226967448
+Cluster 4: silhouette value : 0.774519729902983
+Cluster 5: silhouette value : 0.95364456166486
+Cluster 6: silhouette value : 0.974625963743139
+Cluster 7: silhouette value : 0.998393701011175
+Cluster 8: silhouette value : 0.940360381003576
+Cluster 9: silhouette value : 0.94781214193558
+Cluster 10: silhouette value : 0.996827738822967
+Cluster 11: silhouette value : 0.969859550521847
+Cluster 12: silhouette value : 0.962649270106062
+
+Entropy Result:
+Entropy Per Cluster: 
+Cluster 1: Entropy value: 0.27031007207211
+Cluster 2: Entropy value: 0.27031007207211
+Cluster 3: Entropy value: NaN
+Cluster 4: Entropy value: 0.27031007207211
+Cluster 5: Entropy value: 0.27031007207211
+Cluster 6: Entropy value: 0.27031007207211
+Cluster 7: Entropy value: 0.215761554338836
+Cluster 8: Entropy value: 0.27031007207211
+Cluster 9: Entropy value: 0.27031007207211
+Cluster 10: Entropy value: 0.27031007207211
+Cluster 11: Entropy value: 0.27031007207211
+Cluster 12: Entropy value: 0.27031007207211
+
+Number of Clusters: 12
+clusterd ID: 1
+ lable: boland
+ lable: boland
+ lable: boland
+clusterd ID: 2
+ lable: bpm
+ lable: bpm
+ lable: bpm
+clusterd ID: 3
+ lable: choon
+ lable: choon
+ lable: danieln
+clusterd ID: 4
+ lable: choon
+ lable: choon
+ lable: choon
+clusterd ID: 5
+ lable: choon
+ lable: choon
+ lable: choon
+clusterd ID: 6
+ lable: danieln
+ lable: danieln
+ lable: danieln
+clusterd ID: 7
+ lable: danieln
+ lable: danieln
+ lable: danieln
+ lable: danieln
+clusterd ID: 8
+ lable: kawamura
+ lable: kawamura
+ lable: kawamura
+clusterd ID: 9
+ lable: night
+ lable: night
+ lable: night
+clusterd ID: 10
+ lable: tammo
+ lable: tammo
+ lable: tammo
+clusterd ID: 11
+ lable: tammo
+ lable: tammo
+ lable: tammo
+clusterd ID: 12
+ lable: tammo
+ lable: tammo
+ lable: tammo

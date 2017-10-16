@@ -1,0 +1,182 @@
+Silhouette Result:
+Silhouette value for all Clusters: 0.0620392339888205
+Silhouette Per Cluster: 
+Cluster 1: silhouette value : 0.97476056441983
+Cluster 2: silhouette value : 0.960556936338331
+Cluster 3: silhouette value : 0.947397378086991
+Cluster 4: silhouette value : 0.922454058523895
+Cluster 5: silhouette value : 0.922885010135682
+Cluster 6: silhouette value : 0.941144070151233
+Cluster 7: silhouette value : 0.97530830263023
+Cluster 8: silhouette value : 0.96517740818584
+Cluster 9: silhouette value : 0.961566622616282
+Cluster 10: silhouette value : 0.962359669107348
+Cluster 11: silhouette value : 0.866834681919652
+Cluster 12: silhouette value : 0.957310209892255
+Cluster 13: silhouette value : 0.91643121906589
+Cluster 14: silhouette value : 0.935578310792638
+Cluster 15: silhouette value : 0.961989646613054
+Cluster 16: silhouette value : 0.97060087746701
+Cluster 17: silhouette value : 0.931217108193196
+
+Entropy Result:
+Entropy Per Cluster: 
+Cluster 1: Entropy value: 0.116839968546457
+Cluster 2: Entropy value: 0.151934630661629
+Cluster 3: Entropy value: 0.116839968546457
+Cluster 4: Entropy value: 0.116839968546457
+Cluster 5: Entropy value: 0.116839968546457
+Cluster 6: Entropy value: 0.116839968546457
+Cluster 7: Entropy value: 0.151934630661629
+Cluster 8: Entropy value: 0.116839968546457
+Cluster 9: Entropy value: 0.0948244640920437
+Cluster 10: Entropy value: 0.151934630661629
+Cluster 11: Entropy value: 0.116839968546457
+Cluster 12: Entropy value: 0.151934630661629
+Cluster 13: Entropy value: 0.116839968546457
+Cluster 14: Entropy value: 0.13212915413765
+Cluster 15: Entropy value: 0.151934630661629
+Cluster 16: Entropy value: 0.151934630661629
+Cluster 17: Entropy value: 0.151934630661629
+
+Number of Clusters: 17
+clusterd ID: 1
+ lable: boland
+ lable: boland
+ lable: boland
+ lable: boland
+ lable: boland
+ lable: boland
+ lable: boland
+ lable: boland
+clusterd ID: 2
+ lable: bpm
+ lable: bpm
+ lable: bpm
+ lable: bpm
+ lable: bpm
+ lable: bpm
+clusterd ID: 3
+ lable: ch4f
+ lable: ch4f
+ lable: ch4f
+ lable: ch4f
+ lable: ch4f
+ lable: ch4f
+ lable: ch4f
+ lable: ch4f
+clusterd ID: 4
+ lable: ch4f
+ lable: ch4f
+ lable: ch4f
+ lable: ch4f
+ lable: ch4f
+ lable: ch4f
+ lable: ch4f
+ lable: ch4f
+clusterd ID: 5
+ lable: ch4f
+ lable: ch4f
+ lable: ch4f
+ lable: ch4f
+ lable: ch4f
+ lable: ch4f
+ lable: ch4f
+ lable: ch4f
+clusterd ID: 6
+ lable: ch4f
+ lable: ch4f
+ lable: ch4f
+ lable: ch4f
+ lable: ch4f
+ lable: ch4f
+ lable: ch4f
+ lable: ch4f
+clusterd ID: 7
+ lable: ch4f
+ lable: ch4f
+ lable: ch4f
+ lable: ch4f
+ lable: ch4f
+ lable: ch4f
+clusterd ID: 8
+ lable: danieln
+ lable: danieln
+ lable: danieln
+ lable: danieln
+ lable: danieln
+ lable: danieln
+ lable: danieln
+ lable: danieln
+clusterd ID: 9
+ lable: glickman
+ lable: glickman
+ lable: glickman
+ lable: glickman
+ lable: glickman
+ lable: glickman
+ lable: glickman
+ lable: glickman
+ lable: glickman
+ lable: glickman
+clusterd ID: 10
+ lable: glickman
+ lable: glickman
+ lable: glickman
+ lable: glickman
+ lable: glickman
+ lable: glickman
+clusterd ID: 11
+ lable: kawamura
+ lable: kawamura
+ lable: kawamura
+ lable: kawamura
+ lable: kawamura
+ lable: kawamura
+ lable: kawamura
+ lable: kawamura
+clusterd ID: 12
+ lable: kawamura
+ lable: kawamura
+ lable: kawamura
+ lable: kawamura
+ lable: kawamura
+ lable: kawamura
+clusterd ID: 13
+ lable: kawamura
+ lable: kawamura
+ lable: kawamura
+ lable: kawamura
+ lable: kawamura
+ lable: kawamura
+ lable: kawamura
+ lable: kawamura
+clusterd ID: 14
+ lable: night
+ lable: night
+ lable: night
+ lable: night
+ lable: night
+ lable: night
+ lable: night
+clusterd ID: 15
+ lable: saavik
+ lable: saavik
+ lable: saavik
+ lable: saavik
+ lable: saavik
+ lable: saavik
+clusterd ID: 16
+ lable: steffi
+ lable: steffi
+ lable: steffi
+ lable: steffi
+ lable: steffi
+ lable: steffi
+clusterd ID: 17
+ lable: tammo
+ lable: tammo
+ lable: tammo
+ lable: tammo
+ lable: tammo
+ lable: tammo
